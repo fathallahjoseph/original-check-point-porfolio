@@ -1,0 +1,128 @@
+body{
+  background-image: linear-gradient(to bottom, #070707, #1b141f, #31192d, #4d1b35, #691c34, #6c2227, #6c2b1b, #673510, #4e380f, #3a3718, #2d3322, #282c28);
+}
+*{
+  padding: 0%;
+  margin: 0%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111; }
+    #body{
+    font-family:'Roboto', sans-serif;
+    }
+    h1{ text-align: center;
+        color: #ff0000;
+        text-shadow: #000000;
+        font-style: italic;
+        text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+    } 
+    .fancy {
+        font-weight: bold;
+        text-shadow: 1px 1px 3px rgb(255, 255, 255);
+      }
+      .red {
+        color: #ff01c0;
+      }
+      p{
+        color: rgb(12, 164, 235); 
+        text-align: center;
+ margin: 10px;
+        
+    
+      }
+      h2{
+        text-align: start;
+        text-decoration: rgb(8, 240, 0) underline wavy;
+        margin: 10px;
+      }
+      #p1{
+        text-transform: capitalize;
+      }
+      #p2{
+
+    text-transform: uppercase;  }
+    #p3{
+        text-transform: lowercase;
+    } 
+     #p4{
+        text-transform: none;
+    } 
+     #p5{
+        text-transform: full-width;
+    }  
+    #p6{
+        text-transform: full-size-kana;
+    }
+p{
+    font-family: 'Pacifico' 'Roboto', sans-serif;
+
+}
+
+#nav2{
+  color: #040107;
+  height: 100%;
+  width: 80%;
+  background-color: #ed9bf8;
+  text-align: center;
+  margin: 10%;
+  border: 10px solid black;
+}
+h3{
+  color: rgb(95, 3, 72);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin: 10px;
+ }
+pre{
+  font-family: 'Roboto', sans-serif;
+  margin: 10px;
+  text-align: justify;
+}
+table{
+  margin: 10%;
+}
+#computer{
+  background-color: #ac6464;
+  width: 142px;
+}
+#alone{
+  background-color: #ac6464;
+  width: 52px;
+}
+#istin3i{
+  background-color: #ac6464;
+  width: 190px;
+}
+img{
+  background-color: #040107;
+  border: solid #040107;
+}
+video{
+  background-color: #040107;
+  border: solid black 2px; }
+  #sinscri{
+    color: rgb(12, 164, 235); 
+        text-align: center;
+ margin: 10px;
+ 
+  }
